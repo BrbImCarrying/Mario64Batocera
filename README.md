@@ -25,7 +25,7 @@ Build on an x86_64 Linux computer. The resulting Linux executable is intended fo
 
 ## Install in Batocera
 
-1. Copy this entire folder to `/userdata/roms/ports/` on the Batocera network share. For example: `/userdata/roms/ports/Render96ex-Batocera-shareable/`.
+1. Copy this entire folder to `/userdata/roms/ports/` on the Batocera network share. For example: `/userdata/roms/ports/Render96ex.
 2. Place the compatible x86_64 executable and the game data it needs in the locations described above and by the Render96ex build instructions.
 3. In Batocera, update the game list and launch **Ports > Render96ex**.
 
